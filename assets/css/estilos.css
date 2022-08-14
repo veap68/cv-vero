@@ -10,6 +10,13 @@ body {
   background-size: cover;
   background-position: left;
 }
+/*acerca de mi */
+ .h2 {
+  background-color: black;
+  color: darkgoldenrod;
+  font-style: oblique;
+
+}
 
 /* Mis trabajos */
 
@@ -25,8 +32,12 @@ body {
 #Contacto form label {
   font-weight: 700;
   color: #373a3c;
+  background-color: goldenrod;
+  border-radius: 40%;
 }
-
+form {
+  background-color: rgb(228, 227, 233);
+}
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
