@@ -9,6 +9,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+
 }
 /*acerca de mi */
  .h2 {
@@ -25,8 +26,12 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  
 }
-
+.card-body {
+  background-color: black;
+  color: darkgoldenrod;
+}
 /* Contacto */
 
 #Contacto form label {
